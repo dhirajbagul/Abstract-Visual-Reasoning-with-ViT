@@ -5,16 +5,16 @@ In this repository we implement a Vision Transformer based Relational network to
 # Dependencies
 
 **Important**
-*numpy
-*scipy==1.1.0
-*scikit-image
-*seaborn
-*torch
-*torchvision
-*tqdm
-*future
-*tensorboard
-*tensorboardX
+- numpy
+- scipy==1.1.0
+- scikit-image
+- seaborn
+- torch
+- torchvision
+- tqdm
+- future
+- tensorboard
+- tensorboardX
 
 See ```requirements.txt``` for other dependencies.
 
